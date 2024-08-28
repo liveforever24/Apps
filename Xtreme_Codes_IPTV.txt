@@ -1,0 +1,78 @@
+This list is provided by @AMRGAMAL_STORE Channel.
+............................................................................
+
+- API Code (Xtreme) → 1
+
+Username: 919582418018
+Password: 180189502491
+Host URL: http://xtv.ooo:8080
+
+- M3U URL (Playlist)
+
+http://xtv.ooo:8080/get.php?username=919582418018&password=180189502491&type=m3u_plus
+
+............................................................................
+- API Code (Xtreme) → 2
+
+Username: shaid4upk
+Password: nadeem4khi
+Host URL: http://xtv.ooo:8080
+
+- M3U URL (Playlist)
+
+http://xtv.ooo:8080/get.php?username=shaid4upk&password=nadeem4khi&type=m3u_plus
+
+............................................................................
+- API Code (Xtreme) → 3
+
+Username: Lal1122
+Password: 112233
+Host URL: http://xtv.ooo:8080
+
+- M3U URL (Playlist)
+
+http://xtv.ooo:8080/get.php?username=Lal1122&password=112233&type=m3u_plus
+
+............................................................................
+- API Code (Xtreme) → 4
+
+Username: Ashfaq0754
+Password: Ashfaq@0754
+Host URL: http://xtv.ooo:8080
+
+- M3U URL (Playlist)
+
+http://xtv.ooo:8080/get.php?username=Ashfaq0754&password=Ashfaq@0754&type=m3u_plus
+
+............................................................................
+- API Code (Xtreme) → 5
+
+Username: 6363655
+Password: 223344
+Host URL: http://xtv.ooo:8080
+
+- M3U URL (Playlist)
+
+http://xtv.ooo:8080/get.php?username=6363655&password=223344&type=m3u_plus
+
+............................................................................
+- API Code (Xtreme) → 6
+
+Username: 3528256
+Password: 123654
+Host URL: http://xtv.ooo:8080
+
+- M3U URL (Playlist)
+
+http://xtv.ooo:8080/get.php?username=3528256&password=123654&type=m3u_plus
+
+............................................................................
+- API Code (Xtreme) → 7
+
+Username: 861505791
+Password: 861505791
+Host URL: http://xtv.ooo:8080
+
+- M3U URL (Playlist)
+
+http://xtv.ooo:8080/get.php?username=861505791&password=861505791&type=m3u_plus
